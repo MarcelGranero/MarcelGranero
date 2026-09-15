@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @MarcelGranero
-- 👀 I’m interested in Machine Learning applied to Sign Language
-- 🌱 I’m currently starting my PhD at Pompeu Fabra University
-- 💞️ I’m looking to collaborate on Sign Language Production
+- 👀 I’m interested in Machine Learning applied to Sign Language Processing
 - 📫 How to reach me: marcel.granero at upf[dot]edu
 - 😄 Pronouns: he, him
-
 
 <!---
 - ⚡ Fun fact: ...
